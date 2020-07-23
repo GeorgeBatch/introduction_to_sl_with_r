@@ -1,7 +1,7 @@
 # An Introduction to Statistical Learning with Applications in R
 
 ## Disclaimer:
-This is **not** the official code repository for the book. The official code is freely available from the **official Page:** http://faculty.marshall.usc.edu/gareth-james/ISL/code.html.
+This is **not** the official code repository for the book. The official code is freely available from the **official page:** http://faculty.marshall.usc.edu/gareth-james/ISL/code.html.
 
 This repository contains the code (not all of it), which is mostly taken from the book "An Introduction to Statistical Learning, with applications in R"  (Springer, 2013) with permission from the authors: G. James, D. Witten,  T. Hastie and R. Tibshirani.
 
