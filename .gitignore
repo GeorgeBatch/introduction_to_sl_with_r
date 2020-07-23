@@ -1,0 +1,10 @@
+*/.DS_Store
+.DS_Store
+
+.Rproj.user
+.Rhistory
+*/.RData
+
+*.pyc
+*.swp
+.ipynb_checkpoints/
