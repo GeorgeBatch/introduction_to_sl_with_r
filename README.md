@@ -1,7 +1,6 @@
 # An Introduction to Statistical Learning with Applications in R
 
-This repository contains:
-1. The code, which is mostly copied from the book "An Introduction to Statistical Learning with Applications in R" by 
+This repository contains the code, which is mostly copied from the book "An Introduction to Statistical Learning with Applications in R" by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 
 You can read more at http://faculty.marshall.usc.edu/gareth-james/ISL/code.html.
 
