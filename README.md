@@ -7,4 +7,4 @@ This repository contains the code (not all of it), which is mostly taken from th
 
 I used this code while going through the labs.
 
-This repository also contains the book freely available through [this link](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf).
+This repository also contains the book freely available for download through [this link](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf).
